@@ -263,7 +263,7 @@ export default function MainContent() {
                 <div className="bl_main_head">
                     <div className="bl_main_head_button">
                         <button style={{marginTop: 10, marginBottom: 10}} onClick={() => {setTerm(term+1)}}>New Term</button>
-                        <button onClick={() => { handleClickNewGame()}}>Reset</button>
+                        <button onClick={() => { handleClickNewGame()}}>Resetbotton</button>
                     </div>
                     {entry_crew_main}
                 </div>

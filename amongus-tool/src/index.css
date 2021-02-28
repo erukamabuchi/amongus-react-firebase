@@ -44,10 +44,10 @@ code {
   width: 100%;
 }
 .bl_term_row:nth-child(odd) {
-  background-color: rgba(206, 208, 245, 0.5);
+  background-color: black;
 }
 .bl_term_row:nth-child(even) {
-  background-color: rgba(211, 210, 172, 0.8);
+  background-color:black;
 }
 .bl_main_head {
   display: flex;
